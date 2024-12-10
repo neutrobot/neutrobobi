@@ -1,0 +1,25 @@
+{
+  "name": "neutrobobi",
+  "version": "1.0.0",
+  "description": "chatbot de inteligencia arificial para whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "star": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neutrobot/neutrobobi.git"
+  },
+  "keywords": [
+    "chatbot",
+    "neutrobot",
+    "neutrobot"
+  ],
+  "author": "samu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neutrobot/neutrobobi/issues"
+  },
+  "homepage": "https://github.com/neutrobot/neutrobobi#readme"
+}
